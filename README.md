@@ -4,7 +4,7 @@
 ## Contest Results
 | Contest      |Platform| Vulnerabilities found    | Report Links | Notes    |
 |--------------|--------------|--------------|--------------|--------------|
-| Thorn| Hats Finance|1 HIGH|[1H](https://github.com/hats-finance/Thorn-protocol-0x1286ecdac50215a366458a14968fbca4bd95067d/issues/1) | [First place](https://app.hats.finance/audit-competitions/thorn-protocol-0x1286ecdac50215a366458a14968fbca4bd95067d/leaderboard)|
+| Thorn| Hats Finance|1 HIGH|[1H](https://github.com/hats-finance/Thorn-protocol-0x1286ecdac50215a366458a14968fbca4bd95067d/issues/1) |🥇 [First Place](https://app.hats.finance/audit-competitions/thorn-protocol-0x1286ecdac50215a366458a14968fbca4bd95067d/leaderboard)| 
 | Winnables |Sherlock| 2 HIGHS | [1H](https://github.com/sherlock-audit/2024-08-winnables-raffles-judging/issues/544), [2H](https://github.com/sherlock-audit/2024-08-winnables-raffles-judging/issues/577)|
 | Tadle| Codehawks|5 HIGHS, 2 Lows|  [1H](https://codehawks.cyfrin.io/c/2024-08-tadle/s/1231), [2H](https://codehawks.cyfrin.io/c/2024-08-tadle/s/1727), [3H](https://codehawks.cyfrin.io/c/2024-08-tadle/s/1261), [4H](https://codehawks.cyfrin.io/c/2024-08-tadle/s/1402), [5H](https://codehawks.cyfrin.io/c/2024-08-tadle/s/1179), [1L](https://codehawks.cyfrin.io/c/2024-08-tadle/s/1776), [2L](https://codehawks.cyfrin.io/c/2024-08-tadle/s/1601)|
 | TempleGold |Codehawks| 2 Lows | [1L](https://codehawks.cyfrin.io/c/2024-07-templegold/s/597), [2L](https://codehawks.cyfrin.io/c/2024-07-templegold/s/577)|
