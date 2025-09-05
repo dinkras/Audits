@@ -4,6 +4,8 @@
 ## Contest Results
 | Contest      |Platform| Vulnerabilities found    | Report Links | Notes    |
 |--------------|--------------|--------------|--------------|--------------|
+|Alchemix-v3 | Cantina |1 High, 1 Medium| |[1H](https://cantina.xyz/code/e68909e6-3491-4a94-a707-ecf0c89cf72a/findings/1423),[1M](https://cantina.xyz/code/e68909e6-3491-4a94-a707-ecf0c89cf72a/findings/1546)|
+|dtrinity|Hats Finance |1 Low | [1L](https://github.com/hats-finance/dTRINITY-0xee5c6f15e8d0b55a5eff84bb66beeee0e6140ffe/issues/332)| 
 | Thorn| Hats Finance|1 HIGH|[1H](https://github.com/hats-finance/Thorn-protocol-0x1286ecdac50215a366458a14968fbca4bd95067d/issues/1) |🥇 [First Place](https://app.hats.finance/audit-competitions/thorn-protocol-0x1286ecdac50215a366458a14968fbca4bd95067d/leaderboard)| 
 | Winnables |Sherlock| 2 HIGHS | [1H](https://github.com/sherlock-audit/2024-08-winnables-raffles-judging/issues/544), [2H](https://github.com/sherlock-audit/2024-08-winnables-raffles-judging/issues/577)|
 | Tadle| Codehawks|5 HIGHS, 2 Lows|  [1H](https://codehawks.cyfrin.io/c/2024-08-tadle/s/1231), [2H](https://codehawks.cyfrin.io/c/2024-08-tadle/s/1727), [3H](https://codehawks.cyfrin.io/c/2024-08-tadle/s/1261), [4H](https://codehawks.cyfrin.io/c/2024-08-tadle/s/1402), [5H](https://codehawks.cyfrin.io/c/2024-08-tadle/s/1179), [1L](https://codehawks.cyfrin.io/c/2024-08-tadle/s/1776), [2L](https://codehawks.cyfrin.io/c/2024-08-tadle/s/1601)|
